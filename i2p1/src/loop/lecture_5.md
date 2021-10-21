@@ -4,7 +4,7 @@
 
 要重複執行特定指令，並在滿足特定條件下結束重複執行
 
-example: check lager than `0`, equal to `0`, or less than `0`
+example: check larger than `0`, equal to `0`, or less than `0`
 
 ``` c++
 #include <iostream>

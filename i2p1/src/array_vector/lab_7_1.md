@@ -304,7 +304,7 @@ Big number calculator
 3) minus (-)
 4) multiplication (*)
 5) division (/)
-Please select the operator: 4⏎
+Please select the operator: 5⏎
 You selected: /
 Input integer number (a): 123⏎
 Input integer number (b): 0⏎
